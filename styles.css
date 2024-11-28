@@ -1,0 +1,26 @@
+*{
+    border: dashed 1px red;
+}
+body {
+    background-color: black;
+}
+
+.post{
+    height: 700px;
+    width: 500px;
+    background-color: white;
+    margin: auto;
+}
+
+.postImg{
+display: flex;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+.postBody{
+    height: 100px;
+    width: 100%;
+}
